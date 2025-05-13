@@ -12,5 +12,5 @@ Hi! I am a coder who is trying to learn more about backend & hardware! Please co
 
 ## Spotify & Discord
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=End-788&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mason-788&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mason-788&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mason-788&redirect=true)
 [![Discord Presence](https://lanyard.cnrad.dev/api/635662524871868447?theme=dark&hideSpotify=true&hideClan=false&bg=370556)](https://discord.com/users/635662524871868447)
