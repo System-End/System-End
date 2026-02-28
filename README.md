@@ -4,7 +4,7 @@ Hi! I am a coder who is trying to learn more about backend & hardware! Please co
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=System-End&theme=midnight-purple)
 ![](https://github-readme-stats.endoftimee.tech/api?username=System-End&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&border-radius=10&rank_icon=percentile)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EndofTimee&theme=midnight-purple&hide_border=false&border-radius=10)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=System-End&theme=midnight-purple&hide_border=false&border-radius=10)<br/>
 ![](https://github-readme-stats.endoftimee.tech/api/top-langs/?username=System-End&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical&border-radius=10)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=System-End&theme=midnight-purple&utcOffset=8)
 <!-- ![Wakatime stats](https://github-readme-stats.endoftimee.tech/api/wakatime?username=EndofTimee&theme=midnight-purple&layout=compact) -->
